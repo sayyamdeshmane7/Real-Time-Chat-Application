@@ -16,3 +16,5 @@ A real-time chat application built with React.js is a dynamic single-page applic
 React's job is to connect to this backend, send messages, listen for incoming data, and update the user interface accordingly.)
 
 <img width="1852" height="857" alt="Image" src="https://github.com/user-attachments/assets/0a40292f-6123-4b4a-bb70-e5a76291f958" />
+
+<img width="1898" height="922" alt="Image" src="https://github.com/user-attachments/assets/e4a1505d-3050-44ab-a838-3b3d5469518a" />
